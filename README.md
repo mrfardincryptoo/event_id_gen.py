@@ -1,2 +1,2 @@
-# event_id_gen.py
-event_id_gen.py
+# Event ID Generator
+A utility script designed to generate unique identifiers (UUIDs) for tracking and logging specific blockchain-related events.
